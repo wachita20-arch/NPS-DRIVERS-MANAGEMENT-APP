@@ -64,7 +64,7 @@ label{font-size:13px;font-weight:700;color:#0b2c4a}
 </head>
 <body>
 
-<div class="topbar"><div>🇰🇪 REPUBLIC OF KENYA • <b>NATIONAL POLICE SERVICE</b> • MT BRANCH</div><div>📜 <b>STANDING ORDERS COMPLIANT</b> • 💬 <a href="https://wa.me/c/254777725770" target="_blank"><b>WhatsApp Channel →</b></a> • 📞 <b>0777 725 770</b></div></div>
+<div class="topbar"><div>🇰🇪 REPUBLIC OF KENYA • <b>NATIONAL POLICE SERVICE</b> • MT BRANCH</div><div>📜 <b>NPS SERVICE STANDING ORDERS </b> 
 
 <header><div class="nav">
   <div class="logo">🚔 NPS TRANSPORT<br><span>MANAGEMENT WEBSITE</span></div>
