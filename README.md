@@ -106,8 +106,7 @@ label{font-size:13px;font-weight:700;color:#0b2c4a}
     <hr style="margin:12px 0;border-color:rgba(255,255,255,.2)">
     <div style="font-size:12px;opacity:.9"><b>Logged in:</b> <span id="sideUser">Not logged in - Demo Mode</span><br><b>Station:</b> <span id="sideStation">Eldoret Central</span></div>
     <button class="btn btn-yellow" style="width:100%;margin-top:12px" onclick="printCurrent()">🖨️ Print Current Page</button>
-    <button class="btn btn-wa" style="width:100%" onclick="window.open('https://wa.me/c/254777725770','_blank')">💬 WhatsApp Channel</button>
-  </div>
+    <button class="btn btn-wa" style="width:100%">
 
   <div class="wrap" style="padding-top:18px">
     <div id="alertBox"></div>
@@ -233,7 +232,7 @@ label{font-size:13px;font-weight:700;color:#0b2c4a}
       <div id="reportPreview"></div>
     </div>
 
-    <footer style="padding:20px 0;text-align:center;color:#555;font-size:13px">🇰🇪 NATIONAL POLICE SERVICE • MT BRANCH • STANDING ORDERS<br>Learn • Serve • Protect • Drive Safe • 💬 <a href="https://wa.me/c/254777725770" target="_blank" style="color:#25D366;font-weight:900">WhatsApp Channel →</a> • 📞 0777 725 770<br>© 2026 NPS Transport Management Website — Based on National Police Standing Orders</footer>
+    <footer style="padding:20px 0;text-align:center;color:#555;font-size:13px">🇰🇪 NATIONAL POLICE SERVICE • MT BRANCH • STANDING ORDERS<br>Learn • Serve • Protect • Drive Safe. 
   </div>
 </div>
 
