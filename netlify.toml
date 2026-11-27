@@ -1,0 +1,6 @@
+# The app is a single self-contained HTML page stored in README.md.
+# No framework or dependencies are involved, so the build simply publishes
+# that file as index.html in the "dist" folder.
+[build]
+  command = "mkdir -p dist && cp README.md dist/index.html"
+  publish = "dist"
